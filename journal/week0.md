@@ -4,7 +4,9 @@
 
 ## 2. Recreated the Conceptual Architectual Diagram on Napkin paper
 
-  ![napkin-diagram]()
+   Link: https://lucid.app/lucidchart/afa5dbae-8f38-496a-a224-da5e990107b0/edit?viewport_loc=-1162%2C-514%2C2357%2C1084%2C0_0&invitationId=inv_7068440d-675c-4264-a0e6-b8ea06510b08
+   
+  ![conceptual-diagram]()
 
 ## 3. Recreated the Logical Architectual Diagram in Lucid Charts
 
